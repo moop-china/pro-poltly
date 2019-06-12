@@ -1,0 +1,31 @@
+{
+    "labs": [{
+        "base.ipynb": "基本概念"
+    }, {
+        "bar.ipynb": "柱状图"
+    }, {
+        "line.ipynb": "线图"
+    }, {
+        "pie.ipynb": "饼图"
+    }, {
+        "box.ipynb": "箱型图"
+    }, {
+        "gantt.ipynb": "甘特图"
+    }, {
+        "candlestick.ipynb": "蜡烛图"
+    }, {
+        "radar.ipynb": "雷达图"
+    }, {
+        "sankey.ipynb": "桑吉图"
+    }, {
+        "scatter.ipynb": "散点图"
+    }, {
+        "table.ipynb": "列表"
+    }, {
+        "heatmaps.ipynb": "热力图"
+    }, {
+        "gauge.ipynb": "计量图"
+    }, {
+        "histogram&distplot.ipynb": "历史周期图"
+    }]
+}
